@@ -1,4 +1,4 @@
 # Use the code however you wish
 
 The bot uses pycord https://docs.pycord.dev/en/stable/
-The bot should work instantly if you place all the files into a pterodactyl python bot server
+The bot should work instantly if you place all the files into a pterodactyl python bot server however it may say you need to install packages just install them 
